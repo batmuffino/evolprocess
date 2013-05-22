@@ -1,0 +1,3 @@
+#include "genotype.h"
+
+class Individual { public: Genotype genotype; double fitness; long age; };
